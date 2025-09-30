@@ -4,18 +4,17 @@
 
 This project analyzes **monthly sales trends, revenue, and order volume** using MySQL. By querying an e-commerce sales dataset, several business insights are extracted to help understand trends and highlight actionable metrics.
 ---
-## 📌 Objectives
+## 🎯 Objectives
 
 * Calculate monthly revenue and order volume.
 * Identify best-selling categories and products.
-* Analyze sales by region and payment method.
+* Analyze sales by region.
 * Use aggregation functions to summarize and explore trends.
 ---
 
 ## 📂 Dataset
 
 * File: Online-Sales-Data.csv
-
 * Columns: Transaction ID, Date, Product Category, Product Name, Units Sold, Unit Price, Total Revenue, Region, Payment Method.
 ---
 
@@ -28,7 +27,8 @@ This project analyzes **monthly sales trends, revenue, and order volume** using 
 
 ## 📈 Insights 
 
-* Revenue trends over months
-* Regions contributing most to sales
-* Most popular product categories and individual products
-* Best Selling Category by Month
+* The average revenue over months is 335.6993750000003
+* Top 5 performing months are April, March, January and August
+* Region contributing most to sales is North America.
+* On an Average 30 unique products are sold every month
+* Best Selling Category by Month is Clothing
