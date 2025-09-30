@@ -1,8 +1,9 @@
 # Online-Sales-Trends-Analysis with MySQL
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 This project analyzes **monthly sales trends, revenue, and order volume** using MySQL. By querying an e-commerce sales dataset, several business insights are extracted to help understand trends and highlight actionable metrics.
+
 ---
 ## 🎯 Objectives
 
